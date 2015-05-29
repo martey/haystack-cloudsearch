@@ -21,5 +21,5 @@ setup(
         author_email='emidln@gmail.com',
         url='https://github.com/pbs/haystack-cloudsearch',
         license='Apache License (2.0)',
-        py_modules=['haystack_cloudsearch'],
+        packages=['haystack_cloudsearch'],
 )
